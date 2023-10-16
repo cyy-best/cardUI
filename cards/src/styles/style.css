@@ -1,0 +1,13 @@
+
+:root {
+    --primary-color: rgb(74, 145, 202); 
+    --text-color: #333; 
+    --border-color: #6d6b6b; 
+    --card-header: 16px;
+    --card-title: 24px;
+    --card-text: 16px;
+  }
+
+  #root{
+    margin: 16px 24px;
+  }
