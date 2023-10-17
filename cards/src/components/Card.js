@@ -23,7 +23,7 @@ const Card = ({ post }) => {
           By <span className="author highlight">{authorName}</span> on <span className="date">{formattedDate}</span>
         </p>
       </div>
-      <div className='card-label margin-lr'>article</div>
+      <div className='card-label margin-lr'>Article</div>
 
 
     </div>

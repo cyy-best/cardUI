@@ -1,13 +1,19 @@
-
 :root {
-    --primary-color: rgb(74, 145, 202); 
-    --text-color: #333; 
-    --border-color: #6d6b6b; 
-    --card-header: 16px;
-    --card-title: 24px;
-    --card-text: 16px;
-  }
+  --card-border: rgb(126, 67, 126);
+  --primary-color: rgb(74 167 202);
+  --text-color: #666666;
+  --border-color: #6d6b6b;
+  --card-header: 12px;
+  --card-title: 20px;
+  --card-text: 14px;
+}
 
-  #root{
-    margin: 16px 24px;
-  }
+body {
+  touch-action: none;
+  user-select: none;
+  zoom: reset; 
+}
+
+#root {
+  margin: 16px 24px;
+}
